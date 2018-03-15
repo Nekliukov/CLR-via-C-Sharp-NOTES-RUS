@@ -8,4 +8,6 @@
   * [Загрузка CLR](CLR_Basics/zagruzka-clr.md)
   * [Исполнение кода](CLR_Basics/ispolnenie-koda.md)
     * [JIT компилятор](CLR_Basics/ispolnenie-koda/jit-kompilyator.md)
+    * [IL-код и верификация](CLR_Basics/ispolnenie-koda/il-kod-i-verifikatsiya.md)
+    * [Небезопасный код](CLR_Basics/ispolnenie-koda/nebezopasnii-kod.md)
 
