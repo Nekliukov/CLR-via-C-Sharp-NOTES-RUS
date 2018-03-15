@@ -1,7 +1,8 @@
 # Summary
 
 * [Введение](README.md)
-* [Основы CLR](CLRBasics/model-vipolneniya-koda-v-clr.md)
-* [Метаданные](CLRBasics/metadannie.md)
-* [Сборки](CLRBasics/sborki.md)
+* [Основы CLR](CLR_Basics/CLR.md)
+  * [Управляемые модули](CLR_Basics/Managed_modules.md)
+  * [Метаданные](CLR_Basics/Metadata.md)
+  * [Сборки](CLR_Basics/Assemblies.md)
 
