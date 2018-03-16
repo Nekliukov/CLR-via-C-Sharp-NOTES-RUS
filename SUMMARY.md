@@ -13,5 +13,5 @@
   * [Библиотека FCL](CLR_Basics/biblioteka-fcl.md)
   * [CTS](CLR_Basics/cts.md)
   * [CLS](CLR_Basics/cls.md)
-  * Взаимодействие с неуправляемым кодом
+  * [Взаимодействие с неуправляемым кодом](CLR_Basics/vzaimodeistvie-s-neupravlyaemim-kodom.md)
 
