@@ -1,7 +1,9 @@
 # Summary
 
+## Основы CLR
+
 * [Введение](README.md)
-* [Основы CLR](CLR_Basics/CLR.md)
+* [Модель выполнения кода в CLR](CLR_Basics/CLR.md)
   * [Управляемые модули](CLR_Basics/Managed_modules.md)
   * [Метаданные](CLR_Basics/Metadata.md)
   * [Сборки](CLR_Basics/Assemblies.md)
@@ -14,4 +16,7 @@
   * [CTS](CLR_Basics/cts.md)
   * [CLS](CLR_Basics/cls.md)
   * [Взаимодействие с неуправляемым кодом](CLR_Basics/vzaimodeistvie-s-neupravlyaemim-kodom.md)
+* [Компоновка, упавковка, развёртывание](komponovka-upavkovka-razvyortivanie.md)
+  * [Компоновка типов в модуль](komponovka-upavkovka-razvyortivanie/komponovka-tipov-v-modul.md)
+  * О метаданных
 
