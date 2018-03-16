@@ -1,8 +1,11 @@
 # Summary
 
-## Основы CLR
+## ОБЩЕЕ
 
 * [Введение](README.md)
+
+## ОСНОВЫ CLR
+
 * [Модель выполнения кода в CLR](CLR_Basics/model_vyp.md)
   * [Управляемые модули](CLR_Basics/Managed_modules.md)
   * [Метаданные](CLR_Basics/Metadata.md)
