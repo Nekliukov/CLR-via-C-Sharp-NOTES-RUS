@@ -25,4 +25,10 @@
   * [Объединениe модулей в сборку](komponovka-upavkovka-razvyortivanie/obedineniya-modulei-v-sborku.md)
   * [Ресурсы со сведениями о сборке](komponovka-upavkovka-razvyortivanie/resursi-so-svedeniyami-o-sborke.md)
 * [Совместно используемые сборки](CLR_Basics/sovmestno-ispolzuemie-sborki.md)
+* [Глобальный кэш сборок](CLR_Basics/globalnii-kesh-sborok.md)
+
+## ПРЕКТИРОВАНИЕ ТИПОВ
+
+* [Основы типов](prektirovanie-tipov/osnovi-tipov.md)
+  * [Опреатор new](prektirovanie-tipov/osnovi-tipov/opreator-new.md)
 
