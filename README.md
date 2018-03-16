@@ -12,7 +12,7 @@
 
 ## Способы чтения:
 #### [GitBook](https://nekliukov.gitbooks.io/konspekt-po-kinge-dzheffri-rihtera-clr-via-c/content/) - электронный вариант в виде книги
-#### [GitHub](https://nekliukov.gitbooks.io/konspekt-po-kinge-dzheffri-rihtera-clr-via-c/content/) - репозиторий
+#### [GitHub](https://github.com/Nekliukov/CLR-via-C-Sharp-NOTES-RUS.git) - репозиторий
 
 
 
