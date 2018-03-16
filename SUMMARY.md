@@ -12,6 +12,6 @@
     * [Небезопасный код](CLR_Basics/ispolnenie-koda/nebezopasnii-kod.md)
   * [Библиотека FCL](CLR_Basics/biblioteka-fcl.md)
   * [CTS](CLR_Basics/cts.md)
-  * CLS
+  * [CLS](CLR_Basics/cls.md)
   * Взаимодействие с неуправляемым кодом
 
