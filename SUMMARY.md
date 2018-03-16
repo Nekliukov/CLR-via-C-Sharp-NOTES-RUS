@@ -10,8 +10,8 @@
     * [JIT компилятор](CLR_Basics/ispolnenie-koda/jit-kompilyator.md)
     * [IL-код и верификация](CLR_Basics/ispolnenie-koda/il-kod-i-verifikatsiya.md)
     * [Небезопасный код](CLR_Basics/ispolnenie-koda/nebezopasnii-kod.md)
-  * Библиотека FCL
-  * CTS
+  * [Библиотека FCL](CLR_Basics/biblioteka-fcl.md)
+  * [CTS](CLR_Basics/cts.md)
   * CLS
   * Взаимодействие с неуправляемым кодом
 
