@@ -31,5 +31,6 @@
 
 * [Основы типов](prektirovanie-tipov/osnovi-tipov.md)
   * [Опреатор new](prektirovanie-tipov/osnovi-tipov/opreator-new.md)
-  * Приведение типов
+  * [Приведение типов](prektirovanie-tipov/osnovi-tipov/privedenie-tipov.md)
+  * [Пространства имён и сборки](prektirovanie-tipov/osnovi-tipov/prostranstva-imyon-i-sborki.md)
 
