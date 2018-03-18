@@ -33,4 +33,5 @@
   * [Опреатор new](prektirovanie-tipov/osnovi-tipov/opreator-new.md)
   * [Приведение типов](prektirovanie-tipov/osnovi-tipov/privedenie-tipov.md)
   * [Пространства имён и сборки](prektirovanie-tipov/osnovi-tipov/prostranstva-imyon-i-sborki.md)
+  * [Взаимодействие типов, объектов, стека, кучи](prektirovanie-tipov/osnovi-tipov/vzaimodeistvie-tipov-obektov-steka-kuchi.md)
 
