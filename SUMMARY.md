@@ -34,4 +34,6 @@
   * [Приведение типов](prektirovanie-tipov/osnovi-tipov/privedenie-tipov.md)
   * [Пространства имён и сборки](prektirovanie-tipov/osnovi-tipov/prostranstva-imyon-i-sborki.md)
   * [Взаимодействие типов, объектов, стека, кучи](prektirovanie-tipov/osnovi-tipov/vzaimodeistvie-tipov-obektov-steka-kuchi.md)
+* [Примитивные, ссылочные и значимые типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi.md)
+  * [Примитивные типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi/primitivnie-tipi.md)
 
