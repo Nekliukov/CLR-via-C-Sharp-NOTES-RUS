@@ -36,4 +36,5 @@
   * [Взаимодействие типов, объектов, стека, кучи](prektirovanie-tipov/osnovi-tipov/vzaimodeistvie-tipov-obektov-steka-kuchi.md)
 * [Примитивные, ссылочные и значимые типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi.md)
   * [Примитивные типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi/primitivnie-tipi.md)
+  * [Ссылочные и значимые типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi/ssilochnie-i-znachimie-tipi.md)
 
