@@ -37,4 +37,5 @@
 * [Примитивные, ссылочные и значимые типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi.md)
   * [Примитивные типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi/primitivnie-tipi.md)
   * [Ссылочные и значимые типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi/ssilochnie-i-znachimie-tipi.md)
+* [Упаковка и распаковка значимых типов](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi/upakovka-i-raspakovka-znachimih-tipov.md)
 
