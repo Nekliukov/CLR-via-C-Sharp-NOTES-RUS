@@ -41,4 +41,5 @@
 * [Сведения о членах и типах](prektirovanie-tipov/svedeniya-o-chlenah-i-tipah.md)
   * [Члены типа](prektirovanie-tipov/svedeniya-o-chlenah-i-tipah/chleni-tipa.md)
   * [Доступ к членам типа](prektirovanie-tipov/svedeniya-o-chlenah-i-tipah/dostup-k-chlenam-tipa.md)
+  * [Статические классы](prektirovanie-tipov/svedeniya-o-chlenah-i-tipah/staticheskie-klassi.md)
 
