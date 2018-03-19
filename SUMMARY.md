@@ -38,4 +38,6 @@
   * [Примитивные типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi/primitivnie-tipi.md)
   * [Ссылочные и значимые типы](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi/ssilochnie-i-znachimie-tipi.md)
 * [Упаковка и распаковка значимых типов](prektirovanie-tipov/primitivi-ssilochnie-i-znachimie-tipi/upakovka-i-raspakovka-znachimih-tipov.md)
+* [Сведения о членах и типах](prektirovanie-tipov/svedeniya-o-chlenah-i-tipah.md)
+  * [Члены типа](prektirovanie-tipov/svedeniya-o-chlenah-i-tipah/chleni-tipa.md)
 
