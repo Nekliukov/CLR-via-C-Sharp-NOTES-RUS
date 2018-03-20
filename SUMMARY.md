@@ -51,4 +51,5 @@
   * [Переменное число аргументов](prektirovanie-tipov/parametri/peremennoe-chislo-argumentov.md)
 * [Свойства](prektirovanie-tipov/svoistva.md)
   * [Свойства без параметров](prektirovanie-tipov/svoistva/svoistva-bez-parametrov.md)
+  * [Автоматические свойства](prektirovanie-tipov/svoistva/avtomaticheskie-svoistva.md)
 
