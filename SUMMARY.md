@@ -46,5 +46,6 @@
 * [Константы и поля](prektirovanie-tipov/konstanti-i-polya.md)
 * [Методы](prektirovanie-tipov/metodi.md)
   * [Конструкторы](prektirovanie-tipov/metodi/konstruktori.md)
-* Параметры
+* [Параметры](prektirovanie-tipov/parametri.md)
+  * [Передача по ссылке](prektirovanie-tipov/parametri/peredacha-po-ssilke.md)
 
