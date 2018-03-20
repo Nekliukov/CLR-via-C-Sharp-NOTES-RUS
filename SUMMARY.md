@@ -45,4 +45,5 @@
   * [Частичные классы](prektirovanie-tipov/svedeniya-o-chlenah-i-tipah/chastichnie-klassi.md)
 * [Константы и поля](prektirovanie-tipov/konstanti-i-polya.md)
 * [Методы](prektirovanie-tipov/metodi.md)
+  * [Конструкторы](prektirovanie-tipov/metodi/konstruktori.md)
 
