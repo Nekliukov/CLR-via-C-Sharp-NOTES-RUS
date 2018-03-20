@@ -52,4 +52,5 @@
 * [Свойства](prektirovanie-tipov/svoistva.md)
   * [Свойства без параметров](prektirovanie-tipov/svoistva/svoistva-bez-parametrov.md)
   * [Автоматические свойства](prektirovanie-tipov/svoistva/avtomaticheskie-svoistva.md)
+  * [Пару фактов о свойствах](prektirovanie-tipov/svoistva/paru-faktov-o-svoistvah.md)
 
