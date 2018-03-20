@@ -48,4 +48,5 @@
   * [Конструкторы](prektirovanie-tipov/metodi/konstruktori.md)
 * [Параметры](prektirovanie-tipov/parametri.md)
   * [Передача по ссылке](prektirovanie-tipov/parametri/peredacha-po-ssilke.md)
+  * [Переменное число аргументов](prektirovanie-tipov/parametri/peremennoe-chislo-argumentov.md)
 
