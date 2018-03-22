@@ -54,4 +54,5 @@
   * [Автоматические свойства](prektirovanie-tipov/svoistva/avtomaticheskie-svoistva.md)
   * [Пару фактов о свойствах](prektirovanie-tipov/svoistva/paru-faktov-o-svoistvah.md)
 * [События](prektirovanie-tipov/sobitiya.md)
+* [Обобщения](prektirovanie-tipov/obobscheniya.md)
 
