@@ -55,4 +55,6 @@
   * [Пару фактов о свойствах](prektirovanie-tipov/svoistva/paru-faktov-o-svoistvah.md)
 * [События](prektirovanie-tipov/sobitiya.md)
 * [Обобщения](prektirovanie-tipov/obobscheniya.md)
+  * [Инфраструктура обобщений](prektirovanie-tipov/obobscheniya/infrastruktura-obobschenii.md)
+  * [Обобщённые интерфейсы](prektirovanie-tipov/obobscheniya/obobschyonnie-interfeisi.md)
 
