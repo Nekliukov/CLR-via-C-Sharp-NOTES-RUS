@@ -57,4 +57,5 @@
 * [Обобщения](prektirovanie-tipov/obobscheniya.md)
   * [Инфраструктура обобщений](prektirovanie-tipov/obobscheniya/infrastruktura-obobschenii.md)
   * [Обобщённые интерфейсы](prektirovanie-tipov/obobscheniya/obobschyonnie-interfeisi.md)
+  * [Обобщённые делегаты](prektirovanie-tipov/obobscheniya/obobschyonnie-delegati.md)
 
