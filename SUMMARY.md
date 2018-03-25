@@ -61,3 +61,7 @@
 * [Интерфейсы](prektirovanie-tipov/interfeisi.md)
   * [Абстрактный класс или интерфейс?](prektirovanie-tipov/interfeisi/abstraktnii-klass-ili-interfeis.md)
 
+## Ключевые механизмы
+
+* [Автоматическое управление памятью](klyuchevie-mehanizmi/avtomaticheskoe-upravlenie-pamyatyu.md)
+
