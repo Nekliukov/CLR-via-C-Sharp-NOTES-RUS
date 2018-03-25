@@ -59,4 +59,5 @@
   * [Обобщённые интерфейсы](prektirovanie-tipov/obobscheniya/obobschyonnie-interfeisi.md)
   * [Обобщённые делегаты](prektirovanie-tipov/obobscheniya/obobschyonnie-delegati.md)
 * [Интерфейсы](prektirovanie-tipov/interfeisi.md)
+  * [Абстрактный класс или интерфейс?](prektirovanie-tipov/interfeisi/abstraktnii-klass-ili-interfeis.md)
 
